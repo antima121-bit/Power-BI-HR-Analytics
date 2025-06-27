@@ -14,12 +14,6 @@
 **SQL Queries:**
 ![image](https://github.com/user-attachments/assets/c65ed567-2677-4335-b073-b2eb6b4a18b2)
 
-**SQL Power BI Test Document:**
-![SQL Power Bi Test](https://github.com/ekaterinakham/PowerBI-Tableau-SQL-Excel-HR-Analytics-Project/assets/144201262/40d831f7-b6b9-4c20-9b68-16443c456f25)
-
-**SQL Tableau Test Document:**
-![SQL Tableau Test HR Analytics](https://github.com/ekaterinakham/PowerBI-Tableau-SQL-Excel-HR-Analytics-Project/assets/144201262/4140fb78-7148-450a-bfd8-ac15e255e4ec)
-
 **Excel HR Analytics Dashboard:**
 ![HR Analytics Excel Dashboard](https://github.com/ekaterinakham/PowerBI-Tableau-SQL-Excel-HR-Analytics-Project/assets/144201262/61adb174-ab1f-4b95-8bb5-c5840c6f058e)
 
